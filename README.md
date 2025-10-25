@@ -38,3 +38,9 @@ The pipeline includes:
 |--------|-----------|----------|
 | GRU | 0.91 | 0.75 |
 | BERT | 0.88 | 0.68 |
+
+---
+
+## Dataset
+The dataset used in this project is the Hate Speech and Offensive Language Dataset
+ from Kaggle. It contains tweets annotated for hate speech, offensive language, and neither-offensive.
