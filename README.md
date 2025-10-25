@@ -42,5 +42,6 @@ The pipeline includes:
 ---
 
 ## Dataset
-The dataset used in this project is the Hate Speech and Offensive Language Dataset
- from Kaggle. It contains tweets annotated for hate speech, offensive language, and neither-offensive.
+The dataset used in this project is the Hate Speech and Offensive Language Dataset from Kaggle. It contains tweets annotated for hate speech, offensive language, and neither-offensive.
+
+Dataset Link: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
