@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+matplotlib
+seaborn
+tensorflow
+torch
+transformers
+tqdm
+regex
